@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/goburrow/modbus"
+	_ "github.com/influxdata/surgemq"
 	"log"
 	"os"
 	"time"
