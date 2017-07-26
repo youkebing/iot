@@ -2,5 +2,14 @@
 	"ImportPath": "iot",
 	"GoVersion": "go1.8",
 	"GodepVersion": "v79",
-	"Deps": []
+	"Deps": [
+		{
+			"ImportPath": "github.com/goburrow/modbus",
+			"Rev": "33ff271f134a4563aee33a38e077466248db092f"
+		},
+		{
+			"ImportPath": "github.com/goburrow/serial",
+			"Rev": "f6a0577c894734f3c9b2357b6549ca4d8d45c7e5"
+		}
+	]
 }
