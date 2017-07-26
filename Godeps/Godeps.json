@@ -10,6 +10,10 @@
 		{
 			"ImportPath": "github.com/goburrow/serial",
 			"Rev": "d490ecc9d6a1cbca2d67306da4d9f5fb734ba5af"
+		},
+		{
+			"ImportPath": "github.com/influxdata/surgemq",
+			"Rev": "c88a02e0d607d081fc28d36513dc01bbf83b1b37"
 		}
 	]
 }
