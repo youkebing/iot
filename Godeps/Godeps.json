@@ -5,11 +5,11 @@
 	"Deps": [
 		{
 			"ImportPath": "github.com/goburrow/modbus",
-			"Rev": "33ff271f134a4563aee33a38e077466248db092f"
+			"Rev": "0d0a427beb37599ff34f8d74617af5ac403e9700"
 		},
 		{
 			"ImportPath": "github.com/goburrow/serial",
-			"Rev": "f6a0577c894734f3c9b2357b6549ca4d8d45c7e5"
+			"Rev": "d490ecc9d6a1cbca2d67306da4d9f5fb734ba5af"
 		}
 	]
 }
